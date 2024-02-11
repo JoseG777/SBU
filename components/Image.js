@@ -29,7 +29,7 @@
 //       mediaType: 'photo',
 //       includeBase64: true,
 //     };
-
+//
 //     launchImageLibrary(options, response => {
 //       if (response.didCancel) {
 //         console.log('User cancelled image picker');
